@@ -1,0 +1,4 @@
+key,name(string),depiction(string),effectValue(float)
+test1,ConsumablesTest1,test1_Consumables_depiction,1
+test2,ConsumablesTest2,test2_Consumables_depiction,2
+test3,ConsumablesTest3,test3_Consumables_depiction,3

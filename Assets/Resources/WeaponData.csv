@@ -1,0 +1,4 @@
+key,name(string),depiction(string),atk(float)
+test1,WeaponTest1,test1_Weapon_depiction,1
+test2,WeaponTest2,test2_Weapon_depiction,2
+test3,WeaponTest3,test3_Weapon_depiction,3

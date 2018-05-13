@@ -1,0 +1,4 @@
+key,name(string),depiction(string),defense(float)
+test1,EquipmentTest1,test1_Equipment_depiction,1
+test2,EquipmentTest2,test2_Equipment_depiction,2
+test3,EquipmentTest3,test3_Equipment_depiction,3
