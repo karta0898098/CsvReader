@@ -45,6 +45,7 @@ public class DataBase : MonoBehaviour
 
     private void Start()
     {
+    //Instruction:
         for (int i = 1; i < (equipmentData.Count + 1); i++)
         {
             Debug.Log
